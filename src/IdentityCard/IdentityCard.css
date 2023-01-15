@@ -1,0 +1,17 @@
+.Person-Card{
+  background: gray;
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 4px;
+  width: 200px;
+  height: fit-content;
+
+  display: flex;
+  gap: 8px;
+}
+
+.Person-image{
+  width: 100px;
+  height: 100px;
+  border-radius: 60px;
+}

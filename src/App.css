@@ -1,0 +1,26 @@
+nav{
+  display: flex;
+  gap: 12px;
+  padding: 15px;
+  border: 1px;
+  font-weight: bold;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  background: lightgrey;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.App {
+  max-width: max-content;
+  height: auto;
+  display: grid;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  gap: 10px;
+  text-align: center;
+}

@@ -1,0 +1,8 @@
+.cardGrid{
+  display: grid;
+  gap: 10px;
+}
+
+.addButton{
+  width: 210px;
+}
